@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack*
 
 <br>
 
-### 💻 
+### Tecnologias
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <p align="center">
@@ -15,7 +15,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 Algumas das soluções práticas que venho desenvolvendo:
 
 <div align="center">
