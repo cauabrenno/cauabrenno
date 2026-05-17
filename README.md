@@ -22,8 +22,8 @@ Algumas das soluções práticas que venho desenvolvendo:
   <a href="https://github.com/cauabrenno/rota_certa">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia" alt="Projeto Rota Certa" />
   </a>
-  <a href="https://github.com/Klauspx/AgroFlow-IoT">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=algolia" alt="Projeto AgroFlow-IoT" />
+  <a href="https://github.com/cauabrenno/IoT-PI">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia" alt="Projeto SIDES" />
   </a>
 </div>
 
