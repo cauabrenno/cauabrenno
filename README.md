@@ -18,9 +18,9 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### 📊 Estatísticas e Contribuições
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777&icon_color=3382ed" alt="Estatísticas do Cauã" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777&icon_color=3382ed" alt="Estatísticas do Cauã" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 <br>
