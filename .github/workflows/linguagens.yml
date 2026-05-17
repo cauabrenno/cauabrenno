@@ -1,0 +1,26 @@
+name: Atualizar Grafico de Linguagens
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  baixar-e-salvar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Criar pasta e baixar a imagem via cURL
+        run: |
+          mkdir -p languages-output
+          curl -s -o languages-output/languages.svg "https://github-readme-stats.shion.dev/api/top-langs/?username=cauabrenno&layout=compact&hide_border=true&bg_color=000000&title_color=3996CD&text_color=FFFFFF"
+
+      - name: Salvar (Commit) a imagem no repositório
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualizando gráfico de linguagens automaticamente"
