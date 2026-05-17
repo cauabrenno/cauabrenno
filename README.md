@@ -27,7 +27,7 @@ Algumas das soluções práticas que venho desenvolvendo:
 ### Estatísticas e Contribuições
 
 <p align="center">
-  <a href="https://github.com/icarogabriel-dev">
+  <a href="https://github.com/cauabrenno">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauabrenno&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
