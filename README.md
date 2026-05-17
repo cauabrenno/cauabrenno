@@ -26,15 +26,8 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 ### 📊 Estatísticas e Contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cauabrenno&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cauabrenno&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<br>
-
-<p align="left">
-  <a href="https://github.com/cauabrenno">
-    <img src="https://streak-stats.demolab.com/?user=cauabrenno&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&cache_seconds=1" alt="GitHub Streak" />
-  </a>
-</p>
 
 <br>
 
