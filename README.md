@@ -18,15 +18,15 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### 📊 Estatísticas e Contribuições
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777&icon_color=3382ed" alt="Estatísticas do Cauã" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Estatísticas do Cauã" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauabrenno&theme=transparent&hide_border=true&background=00000000&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=cauabrenno&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
