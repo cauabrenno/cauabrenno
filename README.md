@@ -18,9 +18,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### 🚀 Projetos em Destaque
 Algumas das soluções práticas que venho desenvolvendo:
 
-- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
-- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
-- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
+
 
 <br>
 
@@ -36,12 +34,7 @@ Algumas das soluções práticas que venho desenvolvendo:
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauabrenno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Cauã Brenno github-readme-stats"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img src="https://raw.githubusercontent.com/cauabrenno/cauabrenno/languages-output/languages.svg" height="300" alt="languages graph"  />
 
 
 <br>
