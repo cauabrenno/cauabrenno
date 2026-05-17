@@ -45,7 +45,7 @@ Algumas das soluções práticas que venho desenvolvendo:
 ### 📫 Vamos nos conectar!
 Fique à vontade para acompanhar minha jornada ou trocar ideias:
 
-- 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauabrenno007@gmail.com)
+- 📧 **E-mail:** [cauadebrenno007@gmail.com](mailto:cauabrenno007@gmail.com)
 - 💼 **LinkedIn:** [Cauã Brenno](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)
 
 ---
