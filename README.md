@@ -18,7 +18,14 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### 🚀 Projetos em Destaque
 Algumas das soluções práticas que venho desenvolvendo:
 
-
+<div align="center">
+  <a href="https://github.com/cauabrenno/rota_certa">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia" alt="Projeto Rota Certa" />
+  </a>
+  <a href="https://github.com/Klauspx/AgroFlow-IoT">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=algolia" alt="Projeto AgroFlow-IoT" />
+  </a>
+</div>
 
 <br>
 
