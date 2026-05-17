@@ -2,59 +2,48 @@
 
 Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
----
+<br>
 
 ### 💻 Meu Arsenal
+Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,postgres,mysql,ubuntu,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,postgres,mysql,ubuntu,git,vscode" alt="Minhas Skills" />
   </a>
 </div>
 
 <br>
 
----
+### 🚀 Projetos em Destaque
+Algumas das soluções práticas que venho desenvolvendo:
+
+- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
+- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
+- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
+
+<br>
 
 ### 📊 Estatísticas e Contribuições
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9"/>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1" alt="Estatísticas do Cauã" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=cauabrenno&theme=transparent&hide_border=true&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
-
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=cauabrenno&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
----
-
-# 🚀 Projetos Destaque
-
-<div align="center">
-
-<a href="https://github.com/cauabrenno/FinanceManager">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cauabrenno&repo=FinanceManager&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff"/>
-</a>
-
-<a href="https://github.com/cauabrenno/AgroFlow-IoT">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cauabrenno&repo=AgroFlow-IoT&theme=transparent&hide_border=true&title_color=00bfff&text_color=c9d1d9&icon_color=00bfff"/>
-</a>
-
-</div>
-
----
+<br>
 
 ### 📫 Vamos nos conectar!
+Fique à vontade para acompanhar minha jornada ou trocar ideias:
 
-- 📧 **E-mail:** `cauadelmondes7@gmail.com`
+- 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauadelmondes7@gmail.com)
 - 💼 **LinkedIn:** [Cauã Brenno](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)
 
 ---
