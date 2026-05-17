@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack*
 
 <br>
 
-### Meu Arsenal
+### 💻 Meu Arsenal
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
@@ -15,14 +15,20 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
-### Projetos em Destaque 
+### 🚀 Projetos em Destaque
+Algumas das soluções práticas que venho desenvolvendo:
 
+- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
+- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
+- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
 
-### Estatísticas e Contribuições
+<br>
+
+### 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cauabrenno/cauabrenno/stats-output/stats.svg" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/cauabrenno/cauabrenno/languages-output/languages.svg" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=2" height="150" alt="Estatísticas do Cauã" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&v=2" height="150" alt="Linguagens mais usadas" />
 </div>
 
 <br>
