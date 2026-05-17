@@ -1,55 +1,40 @@
-# 👋 Hello, welcome to my GitHub profile!
+# Olá! 👋 Sou o Cauã
 
-### 🌟 About Me  
-Hello! My name is **Cauã**, I'm a student of **Information Systems** and a Fullstack development enthusiast. I like solving problems and creating efficient solutions.
+Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
-My journey includes practical and theoretical studies, building personal projects and an eagerness to grow in this field. 🚀
+<br>
 
----
+### 💻 Meu Arsenal
+Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
-### 🚀 Goal  
-Seeking to build scalable and efficient applications. My goal is to become a Software Engineer, mastering both back-end and front-end development.
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,postgres,mysql,ubuntu,git,vscode" alt="Minhas Skills" />
+  </a>
+</div>
 
----
+<br>
 
-### 💻 Tech Stack  
+### 📊 Estatísticas e Contribuições
 
-Here are some of the technologies I’m learning and working with:
-
-#### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-#### 🔧 Backend  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777&icon_color=3382ed" alt="Estatísticas do Cauã" height="150"/>
   
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3382ed&text_color=777" alt="Linguagens mais usadas" height="150"/>
+</div>
 
-#### 🛠️ Tools & Others  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<br>
 
----
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true&background=00000000&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
+</div>
 
-### 📚 Currently Studying  
-- **Data Structures and Algorithms**  
+<br>
 
----
+### 📫 Vamos nos conectar!
+Fique à vontade para acompanhar minha jornada ou trocar ideias:
 
-### 📫 Let’s Connect!  
-If you’d like to follow my journey or exchange ideas, feel free to contact me:  
-
-- 📧 Email: [cauadelmondes7@gmail.com](mailto:cauadelmondes7@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)  
+- 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauadelmondes7@gmail.com)
+- 💼 **LinkedIn:** [Cauã Brenno](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)
 
 ---
-
-⚡ **"just do it"**
