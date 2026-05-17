@@ -18,10 +18,10 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 <div align="center">
   <a href="https://github.com/cauabrenno/rota_certa">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia&v=2" alt="Projeto Rota Certa" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia&v=3" alt="Projeto Rota Certa" />
   </a>
   <a href="https://github.com/cauabrenno/IoT-PI">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia&v=2" alt="Projeto IoT" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia&v=3" alt="Projeto IoT" />
   </a>
 </div>
 
