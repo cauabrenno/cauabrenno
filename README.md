@@ -26,7 +26,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 <br>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true&background=00000000&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauabrenno&theme=transparent&hide_border=true&background=00000000&ring=3382ed&fire=3382ed&currStreakLabel=3382ed" alt="GitHub Streak" />
 </div>
 
 <br>
