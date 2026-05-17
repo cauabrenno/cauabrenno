@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack*
 
 <br>
 
-### Tecnologias
+### 💻 Tecnologias
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <p align="center">
@@ -15,7 +15,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
-### Projetos em Destaque
+### 🚀 Projetos em Destaque
 Algumas das soluções práticas que venho desenvolvendo:
 
 <div align="center">
@@ -23,13 +23,13 @@ Algumas das soluções práticas que venho desenvolvendo:
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia" alt="Projeto Rota Certa" />
   </a>
   <a href="https://github.com/cauabrenno/IoT-PI">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia" alt="Projeto SIDES" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia" alt="Projeto IoT" />
   </a>
 </div>
 
 <br>
 
-### Estatísticas e Contribuições
+### 📊 Estatísticas e Contribuições
 
 <p align="center">
   <a href="https://github.com/cauabrenno">
@@ -39,10 +39,8 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauabrenno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Cauã Brenno github-readme-stats"/>
+  <img src="./languages-output/languages.svg" width="48%" alt="Linguagens mais usadas" />
 </p>
-
-<img src="https://raw.githubusercontent.com/cauabrenno/cauabrenno/languages-output/languages.svg" height="300" alt="languages graph"  />
-
 
 <br>
 
