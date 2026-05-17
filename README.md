@@ -39,7 +39,7 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauabrenno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" height="175" alt="Cauã Brenno github-readme-stats"/>
-  <img src="./languages-output/languages.svg" height="175" alt="Linguagens mais usadas" />
+  <img src="./languages-output/languages.svg" height="180" alt="Linguagens mais usadas" />
 </p>
 
 <br>
