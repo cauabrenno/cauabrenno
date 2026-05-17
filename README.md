@@ -1,10 +1,14 @@
-# Olá! Sou Cauã
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Ol%C3%A1!%20Sou%20o%20Cau%C3%A3&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&textBg=false&color=1E90FF" />
+</div>
+
+<br>
 
 Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
 <br>
 
-### 💻 Minhas Tecnologias
+### 💻 Meu Arsenal
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
@@ -18,24 +22,26 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ### 🚀 Projetos em Destaque
 Algumas das soluções práticas que venho desenvolvendo:
 
-- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
-- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
-- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
+<div align="left">
+  <a href="https://github.com/cauabrenno/RotaCerta">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauabrenno&repo=RotaCerta&theme=transparent&hide_border=true&title_color=1E90FF&text_color=c9d1d9&icon_color=1E90FF" alt="Projeto RotaCerta" />
+  </a>
+  <a href="https://github.com/cauabrenno/SIDES">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cauabrenno&repo=SIDES&theme=transparent&hide_border=true&title_color=1E90FF&text_color=c9d1d9&icon_color=1E90FF" alt="Projeto SIDES" />
+  </a>
+</div>
 
 <br>
 
 ### 📊 Estatísticas e Contribuições
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1" alt="Estatísticas do Cauã" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Linguagens mais usadas" height="150"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&text_color=c9d1d9&icon_color=1E90FF" alt="Estatísticas do Cauã" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=1E90FF&text_color=c9d1d9" alt="Linguagens mais usadas" height="150"/>
 </div>
 
-<br>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=cauabrenno&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=cauabrenno&theme=transparent&hide_border=true&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -46,4 +52,6 @@ Fique à vontade para acompanhar minha jornada ou trocar ideias:
 - 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauadelmondes7@gmail.com)
 - 💼 **LinkedIn:** [Cauã Brenno](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)
 
----
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&textBg=false&color=1E90FF" />
+</div>
