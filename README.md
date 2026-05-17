@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack*
 
 <br>
 
-### 💻 Meu Arsenal
+### Meu Arsenal
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
@@ -15,16 +15,10 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
-### 🚀 Projetos em Destaque
-Algumas das soluções práticas que venho desenvolvendo:
+### Projetos em Destaque
 
-- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
-- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
-- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
 
-<br>
-
-### 📊 Estatísticas e Contribuições
+### Estatísticas e Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cauabrenno/cauabrenno/stats-output/stats.svg" height="200" alt="stats graph"  />
