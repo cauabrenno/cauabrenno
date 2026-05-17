@@ -1,8 +1,10 @@
-# Olá! 👋 Sou o Cauã
+# Olá! Sou Cauã
 
 Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
-### 💻 Minhas Tecnologias 
+<br>
+
+### 💻 Minhas Tecnologias
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
@@ -13,12 +15,21 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
+### 🚀 Projetos em Destaque
+Algumas das soluções práticas que venho desenvolvendo:
+
+- **RotaCerta:** Sistema de gestão de entregas (Liderança no desenvolvimento Front-end e design de interfaces).
+- **SIDES (IoT):** Sistema completo de monitoramento integrado com hardware e painel em tempo real para prevenção de desastres naturais.
+- **Sistema de Pedidos Digitais:** Aplicação fullstack para fluxo de comandas e impressão térmica desenvolvida sob demanda para o setor de restaurantes.
+
+<br>
+
 ### 📊 Estatísticas e Contribuições
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Estatísticas do Cauã" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1" alt="Estatísticas do Cauã" height="150"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 <br>
