@@ -26,10 +26,9 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 ### 📊 Estatísticas e Contribuições
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauabrenno&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1" alt="Estatísticas do Cauã" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabrenno&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&v=1" alt="Linguagens mais usadas" height="150"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/languages-output/languages.svg" height="300" alt="languages graph"  />
 </div>
 
 <br>
