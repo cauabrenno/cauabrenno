@@ -2,8 +2,6 @@
 
 Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
-<br>
-
 ### 💻 Tecnologias
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
@@ -20,10 +18,10 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 <div align="center">
   <a href="https://github.com/cauabrenno/rota_certa">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia" alt="Projeto Rota Certa" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=rota_certa&theme=algolia&v=1" alt="Projeto Rota Certa" />
   </a>
   <a href="https://github.com/cauabrenno/IoT-PI">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia" alt="Projeto IoT" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=cauabrenno&repo=IoT-PI&theme=algolia&v=1" alt="Projeto IoT" />
   </a>
 </div>
 
@@ -47,7 +45,7 @@ Algumas das soluções práticas que venho desenvolvendo:
 ### 📫 Vamos nos conectar!
 Fique à vontade para acompanhar minha jornada ou trocar ideias:
 
-- 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauadelmondes7@gmail.com)
+- 📧 **E-mail:** [cauadelmondes7@gmail.com](mailto:cauabrenno007@gmail.com)
 - 💼 **LinkedIn:** [Cauã Brenno](https://www.linkedin.com/in/cau%C3%A3-brenno-884baa275/)
 
 ---
