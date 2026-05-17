@@ -28,6 +28,9 @@ Algumas das soluções práticas que venho desenvolvendo:
 <p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=cauabrenno&theme=dark&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 </p>
+  <a href="https://github.com/icarogabriel-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauabrenno&bg_color=0d1117&color=3996CD&line=3996CD&point=3996CD&area=true&area_color=3996CD&hide_border=true&custom_title=Graph%20" alt="Contribution Graph" />
+  </a>
 
 <br>
 
