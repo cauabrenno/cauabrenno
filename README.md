@@ -26,11 +26,9 @@ Algumas das soluções práticas que venho desenvolvendo:
 
 ### Estatísticas e Contribuições
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=cauabrenno&theme=dark&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=cauabrenno&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Cauã Brenno github-readme-stats"/>
 </p>
-  <a href="https://github.com/icarogabriel-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauabrenno&bg_color=0d1117&color=3996CD&line=3996CD&point=3996CD&area=true&area_color=3996CD&hide_border=true&custom_title=Graph%20" alt="Contribution Graph" />
-  </a>
+
 
 <br>
 
