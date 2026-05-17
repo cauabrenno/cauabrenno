@@ -2,9 +2,7 @@
 
 Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack**. Gosto de construir aplicações escaláveis e soluções eficientes, unindo uma boa base teórica com projetos práticos de engenharia de software.
 
-<br>
-
-### 💻 Meu Arsenal
+### 💻 Minhas Tecnologias 
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <div align="left">
