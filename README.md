@@ -4,10 +4,10 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Fullstack*
 
 <br>
 
-### 💻 Meu Arsenal
+### 💻 
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,php,js,vue,html,css,postgres,mysql,ubuntu,git,vscode" alt="Minhas Skills" />
   </a>
