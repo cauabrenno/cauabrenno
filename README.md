@@ -15,7 +15,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 <br>
 
-### Projetos em Destaque
+### Projetos em Destaque 
 
 
 ### Estatísticas e Contribuições
